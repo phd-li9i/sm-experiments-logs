@@ -1,0 +1,13 @@
+Displacement uniform in [+/-0.15,+/-0.15,[-0.15,0.15]]
+Noise acting on laser's range measurements: Normal with sigma = 0
+Noise acting on map's range measurements: Normal with sigma = 0
+Invalidated rays randomly percentage = 0
+Invalidated rays sequentially percentage = 0
+Below 0.001: 3.02047(149/4933)
+Below 0.005: 27.4073(1352/4933)
+Below 0.01: 16.9674(837/4933)
+Below 0.05: 24.1638(1192/4933)
+Above 0.05: 28.4411(1403/4933)
+Mean error: 0.0962783 m
+Mean number of iterations: 1
+Mean execution time: 0.191546 sec
